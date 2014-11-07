@@ -1,0 +1,70 @@
+body {
+    font-family: 'Sintony', sans-serif;
+}
+
+header {
+text-align: center;
+margin-top: 10px;
+}
+
+h1 {
+    font-family: 'Rufina', serif;
+    margin-bottom: 5px;
+    color: #4682B4;
+}
+
+.icons {
+    height: 20px;
+    width: 20px;
+    vertical-align: bottom;
+}
+
+.header {
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: -25px;
+}
+
+#site {
+    margin-left: 5px;
+    margin-top: -2px;
+}
+
+.main {
+    overflow: hidden;
+}
+
+
+ul.competencies li {
+    list-style: none;
+    float:left;
+    width:50%;
+    margin-bottom: 12px;
+    margin-top: -10px;
+    font-size: 13px;
+}
+
+h3 {
+    margin-left: 10px;
+    font-family: 'Rufina', serif;
+    color:#4682B4;
+}
+
+h4, h5 {
+  margin-left: 20px;
+  line-height: 2px;
+}
+
+p {
+ margin-left: 20px;
+ font-size: 13px;
+}
+
+ul.technical li {
+    list-style: none;
+    float:left;
+    width:50%;
+    margin-bottom: 12px;
+    margin-top: -10px;
+    font-size: 13px;
+}
